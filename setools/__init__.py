@@ -47,7 +47,6 @@ from .userquery import UserQuery
 from .mlsrulequery import MLSRuleQuery
 from .rbacrulequery import RBACRuleQuery
 from .terulequery import TERuleQuery
-from .xpermrulequery import XpermRuleQuery
 
 # Constraint queries
 from .constraintquery import ConstraintQuery
